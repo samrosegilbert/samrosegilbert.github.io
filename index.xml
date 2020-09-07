@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Samantha Gilbert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2019 16:35:37 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 09:32:31 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Samantha Gilbert</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Developing a hierarchy of models for terrestrial habitability studies</title>
+      <link>/talk/thai-workshop/</link>
+      <pubDate>Wed, 16 Sep 2020 09:32:31 -0400</pubDate>
+      <guid>/talk/thai-workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trawling the Puget Sound to Trace the Evolutionary History of Invertebrate Organisms</title>
